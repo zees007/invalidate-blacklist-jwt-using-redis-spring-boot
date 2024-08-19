@@ -15,19 +15,15 @@ https://levelup.gitconnected.com/invalidate-blacklist-the-jwt-using-redis-logout
 ## Contact me
 
 <div align="center">
-  <span style="padding: 0 10px;">
-    <a href="https://www.linkedin.com/in/zeeshan-adil-a94b3867/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" />
-    </a>
-  </span>
-  <span style="padding: 0 10px;">
-    <a href="https://medium.com/@mhmdzeeshan" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo" />
-    </a>
-  </span>
-  <span style="padding: 0 10px;">
-    <a href="https://facebook.com/groups/321306497491174/?ref=share_group_link" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo" />
-    </a>
-  </span>
+  <a href="https://www.linkedin.com/in/zeeshan-adil-a94b3867/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <img width="20" />
+  <a href="https://medium.com/@mhmdzeeshan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=flat" height="35" alt="medium logo"  />
+  </a>
+  <img width="20" />
+  <a href="https://facebook.com/groups/321306497491174/?ref=share_group_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
